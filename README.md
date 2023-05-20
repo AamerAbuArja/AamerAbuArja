@@ -4,6 +4,29 @@
 I am an ERP Technical Consultant with a passion for Software Development, Web Development, and Solution Architecture.
 
 ## Skills and Interests
+<table>
+ <tr>
+  <td><img src=".png" alt="C#" width="240" height="180" /></td>
+  <td><img src=".png" alt="C#" width="240" height="180" /></td>
+  <td><img src=".png" alt="C#" width="240" height="180" /></td>
+  <td><img src=".png" alt="C#" width="240" height="180" /></td>
+  <td><img src=".png" alt="C#" width="240" height="180" /></td>
+ </tr>
+ <tr>
+  <td><img src=".png" alt="C#" width="240" height="180" /></td>
+  <td><img src=".png" alt="C#" width="240" height="180" /></td>
+  <td><img src=".png" alt="C#" width="240" height="180" /></td>
+  <td><img src=".png" alt="C#" width="240" height="180" /></td>
+  <td><img src=".png" alt="C#" width="240" height="180" /></td>
+ </tr>
+ <tr>
+  <td><img src=".png" alt="C#" width="240" height="180" /></td>
+  <td><img src=".png" alt="C#" width="240" height="180" /></td>
+  <td><img src=".png" alt="C#" width="240" height="180" /></td>
+  <td><img src=".png" alt="C#" width="240" height="180" /></td>
+  <td><img src=".png" alt="C#" width="240" height="180" /></td>
+ </tr>
+</table>
  ![C#](csharp.png)         | ![HTML](html.png)      | ![ASP.NET](aspnet.png)       | ![SQL](sql.png)          | ![Epicor](epicor.png)     
  ---                       | ---                    | ---                          | ---                      | ---                       
  ![JavaScript](js.png)     | ![Azure](azure.png)    | ![Blazor](blazor.png)        | ![.NET MAUI](maui.png)   | ![NetSuite](netsuite.png) 
