@@ -5,6 +5,7 @@ I am an ERP Technical Consultant with a passion for Software Development, Web De
 
 ## Skills and Interests
 | ![C#](csharp.png)         | ![HTML](html.png)      | ![ASP.NET](aspnet.png)       | ![SQL](sql.png)          | ![Epicor](epicor.png)     |
+| ---     | ---      | ---       | ---          | ---     |
 | ![JavaScript](js.png)     | ![Azure](azure.png)    | ![Blazor](blazor.png)        | ![.NET MAUI](maui.png)   | ![NetSuite](netsuite.png) |
 | ![SuiteScript](nsss.png)  | ![Vue](vue.png)        | ![Entity Framework](ef.png)  |                          |                           |
 
