@@ -7,30 +7,26 @@ I am an ERP Technical Consultant with a passion for Software Development, Web De
 <table>
  <tr>
   <td><img src=".png" alt="C#" width="240" height="180" /></td>
-  <td><img src=".png" alt="C#" width="240" height="180" /></td>
-  <td><img src=".png" alt="C#" width="240" height="180" /></td>
-  <td><img src=".png" alt="C#" width="240" height="180" /></td>
-  <td><img src=".png" alt="C#" width="240" height="180" /></td>
+  <td><img src=".png" alt="HTML" width="240" height="180" /></td>
+  <td><img src=".png" alt="Azure" width="240" height="180" /></td>
+  <td><img src=".png" alt="JavaScript" width="240" height="180" /></td>
+  <td><img src=".png" alt="Vue" width="240" height="180" /></td>
  </tr>
  <tr>
-  <td><img src=".png" alt="C#" width="240" height="180" /></td>
-  <td><img src=".png" alt="C#" width="240" height="180" /></td>
-  <td><img src=".png" alt="C#" width="240" height="180" /></td>
-  <td><img src=".png" alt="C#" width="240" height="180" /></td>
-  <td><img src=".png" alt="C#" width="240" height="180" /></td>
+  <td><img src=".png" alt="SuiteScript" width="240" height="180" /></td>
+  <td><img src=".png" alt="Blazor" width="240" height="180" /></td>
+  <td><img src=".png" alt="Entity Framework" width="240" height="180" /></td>
+  <td><img src=".png" alt="SQL" width="240" height="180" /></td>
+  <td><img src=".png" alt=".NET MAUI" width="240" height="180" /></td>
  </tr>
  <tr>
-  <td><img src=".png" alt="C#" width="240" height="180" /></td>
-  <td><img src=".png" alt="C#" width="240" height="180" /></td>
-  <td><img src=".png" alt="C#" width="240" height="180" /></td>
-  <td><img src=".png" alt="C#" width="240" height="180" /></td>
-  <td><img src=".png" alt="C#" width="240" height="180" /></td>
+  <td><img src=".png" alt="Python" width="240" height="180" /></td>
+  <td><img src=".png" alt="Epicor" width="240" height="180" /></td>
+  <td><img src=".png" alt="NetSuite" width="240" height="180" /></td>
+  <td><img src=".png" alt="ASP.NET" width="240" height="180" /></td>
+  <td><img src=".png" alt="WinUI" width="240" height="180" /></td>
  </tr>
-</table>
- ![C#](csharp.png)         | ![HTML](html.png)      | ![ASP.NET](aspnet.png)       | ![SQL](sql.png)          | ![Epicor](epicor.png)     
- ---                       | ---                    | ---                          | ---                      | ---                       
- ![JavaScript](js.png)     | ![Azure](azure.png)    | ![Blazor](blazor.png)        | ![.NET MAUI](maui.png)   | ![NetSuite](netsuite.png) 
- ![SuiteScript](nsss.png)  | ![Vue](vue.png)        | ![Entity Framework](ef.png)  | ![Python](python.png)    |                           
+</table>                   
 
 <!--
 ## Experience
