@@ -26,6 +26,13 @@ I am an ERP Technical Consultant with a passion for Software Development, Web De
   <td><img src=".png" alt="ASP.NET" width="240" height="180" /></td>
   <td><img src=".png" alt="WinUI" width="240" height="180" /></td>
  </tr>
+ <tr>
+  <td><img src=".png" alt="XML" width="240" height="180" /></td>
+  <td><img src=".png" alt=".NET Core" width="240" height="180" /></td>
+  <td><img src=".png" alt="" width="240" height="180" /></td>
+  <td><img src=".png" alt="" width="240" height="180" /></td>
+  <td><img src=".png" alt="" width="240" height="180" /></td>
+ </tr>
 </table>                   
 
 <!--
