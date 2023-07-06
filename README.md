@@ -6,7 +6,7 @@ I am an ERP Technical Consultant with a passion for Software Development, Web De
 ## Skills and Interests
 <table>
  <tr>
-  <td><img src="\images\c-sharp.png" alt="C#" width="240" height="180" /></td>
+  <td><img src="images/c-sharp.png" alt="C#" width="240" height="180" /></td>
   <td><img src=".png" alt="HTML" width="240" height="180" /></td>
   <td><img src=".png" alt="Azure" width="240" height="180" /></td>
   <td><img src=".png" alt="JavaScript" width="240" height="180" /></td>
