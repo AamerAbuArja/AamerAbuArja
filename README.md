@@ -4,6 +4,7 @@
 I am an ERP Technical Consultant with a passion for Software Development, Web Development, and Solution Architecture.
 
 ## Skills and Interests
+<!--
 <table>
  <tr>
   <td><img src="images/c-sharp.png" alt="C#" width="240" height="180" /></td>
@@ -33,7 +34,8 @@ I am an ERP Technical Consultant with a passion for Software Development, Web De
   <td><img src=".png" alt="" width="240" height="180" /></td>
   <td><img src=".png" alt="" width="240" height="180" /></td>
  </tr>
-</table>                   
+</table>
+-->
 
 <!--
 ## Experience
@@ -74,8 +76,8 @@ I am an ERP Technical Consultant with a passion for Software Development, Web De
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently Taking a Course in Server Management
+- 🌱 I’m currently learning PowerShell
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
