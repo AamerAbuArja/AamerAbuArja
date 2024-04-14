@@ -71,7 +71,7 @@ I am an ERP Technical Consultant with a passion for .NET, The Web, Computers, an
 - GitHub: [github.com/AamerAbuArja](https://github.com/aamerabuarja)
 - LinkedIn: [linkedin.com/in/aamerabuarja](https://linkedin.com/in/aamerabuarja)
 
-
+## Extra
 - 🔭 I’m currently Taking a Course in Server Management (Microsoft Certified Solution Associate MCSA)
 - 🌱 I’m currently learning PowerShell
 - 💬 Ask me about Epicor / Kinetic ERP, Oracle NetSuite ERP, Windows Server
