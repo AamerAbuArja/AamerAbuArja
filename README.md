@@ -1,7 +1,7 @@
 # Aamer Abu Arja
 
 ## About Me
-I am an ERP Technical Consultant with a passion for Software Development, Web Development, and Solution Architecture.
+I am an ERP Technical Consultant with a passion for .NET, The Web, Computers, and Solution Architecture.
 
 ## Skills and Interests
 <!--
@@ -71,17 +71,18 @@ I am an ERP Technical Consultant with a passion for Software Development, Web De
 - GitHub: [github.com/AamerAbuArja](https://github.com/aamerabuarja)
 - LinkedIn: [linkedin.com/in/aamerabuarja](https://linkedin.com/in/aamerabuarja)
 
+
+- 🔭 I’m currently Taking a Course in Server Management (Microsoft Certified Solution Associate MCSA)
+- 🌱 I’m currently learning PowerShell
+- 💬 Ask me about Epicor / Kinetic ERP, Oracle NetSuite ERP, Windows Server
+
 <!--
 **AamerAbuArja/AamerAbuArja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently Taking a Course in Server Management
-- 🌱 I’m currently learning PowerShell
+- 📫 How to reach me: ...
+- ⚡ Fun fact: ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
