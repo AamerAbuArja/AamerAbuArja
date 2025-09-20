@@ -4,38 +4,36 @@
 I am a Technical Team Lead, ERP & Cloud Enthusiast and a man with a passion for Computers, The Web and  Solution Architecture.
 
 ## Skills and Interests
-<!--
 <table>
  <tr>
   <td><img src="images/c-sharp.png" alt="C#" width="240" height="180" /></td>
   <td><img src=".png" alt="HTML" width="240" height="180" /></td>
   <td><img src=".png" alt="Azure" width="240" height="180" /></td>
   <td><img src=".png" alt="JavaScript" width="240" height="180" /></td>
-  <td><img src=".png" alt="Vue" width="240" height="180" /></td>
+  <td><img src=".png" alt="Git" width="240" height="180" /></td>
  </tr>
  <tr>
-  <td><img src=".png" alt="SuiteScript" width="240" height="180" /></td>
-  <td><img src=".png" alt="Blazor" width="240" height="180" /></td>
-  <td><img src=".png" alt="Entity Framework" width="240" height="180" /></td>
+  <td><img src=".png" alt="Bicep" width="240" height="180" /></td>
+  <td><img src=".png" alt="Ansible" width="240" height="180" /></td>
+  <td><img src=".png" alt="TerraForm" width="240" height="180" /></td>
   <td><img src=".png" alt="SQL" width="240" height="180" /></td>
-  <td><img src=".png" alt=".NET MAUI" width="240" height="180" /></td>
+  <td><img src=".png" alt="SSRS" width="240" height="180" /></td>
  </tr>
  <tr>
   <td><img src=".png" alt="Python" width="240" height="180" /></td>
   <td><img src=".png" alt="Epicor" width="240" height="180" /></td>
-  <td><img src=".png" alt="NetSuite" width="240" height="180" /></td>
-  <td><img src=".png" alt="ASP.NET" width="240" height="180" /></td>
-  <td><img src=".png" alt="WinUI" width="240" height="180" /></td>
+  <td><img src=".png" alt="ERP" width="240" height="180" /></td>
+  <td><img src=".png" alt="Visual Studio" width="240" height="180" /></td>
+  <td><img src=".png" alt="VS Code" width="240" height="180" /></td>
  </tr>
  <tr>
   <td><img src=".png" alt="XML" width="240" height="180" /></td>
   <td><img src=".png" alt=".NET Core" width="240" height="180" /></td>
-  <td><img src=".png" alt="" width="240" height="180" /></td>
-  <td><img src=".png" alt="" width="240" height="180" /></td>
-  <td><img src=".png" alt="" width="240" height="180" /></td>
+  <td><img src=".png" alt="PowerShell" width="240" height="180" /></td>
+  <td><img src=".png" alt="Linux" width="240" height="180" /></td>
+  <td><img src=".png" alt="REST" width="240" height="180" /></td>
  </tr>
 </table>
--->
 
 <!--
 ## Experience
@@ -72,9 +70,9 @@ I am a Technical Team Lead, ERP & Cloud Enthusiast and a man with a passion for 
 - LinkedIn: [linkedin.com/in/aamerabuarja](https://linkedin.com/in/aamerabuarja)
 
 ## Extra
-- 🔭 I’m currently Taking a Course in Server Management (Microsoft Certified Solution Associate MCSA)
-- 🌱 I’m currently learning PowerShell
-- 💬 Ask me about Epicor / Kinetic ERP, Oracle NetSuite ERP, Windows Server
+- 🔭 I took courses in Windows Server and Azure.
+- 🌱 I’m currently learning Cloud Provisioning, Configuration and Automation Technologies.
+- 💬 Ask me about Azure, ERP Software, Windows Server
 
 <!--
 **AamerAbuArja/AamerAbuArja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
