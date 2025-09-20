@@ -3,6 +3,7 @@
 ## About Me
 I am a Technical Team Lead, ERP & Cloud Enthusiast and a man with a passion for Computers, The Web and  Solution Architecture.
 
+<!--
 ## Skills and Interests
 <table>
  <tr>
@@ -34,6 +35,7 @@ I am a Technical Team Lead, ERP & Cloud Enthusiast and a man with a passion for 
   <td><img src=".png" alt="REST" width="240" height="240" /></td>
  </tr>
 </table>
+-->
 
 <!--
 ## Experience
