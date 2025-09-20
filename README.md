@@ -7,31 +7,31 @@ I am a Technical Team Lead, ERP & Cloud Enthusiast and a man with a passion for 
 <table>
  <tr>
   <td><img src="images/c-sharp.png" alt="C#" width="240" height="240" /></td>
-  <td><img src=".png" alt="HTML" width="240" height="180" /></td>
-  <td><img src="images/azure.png" alt="Azure" width="240" height="180" /></td>
-  <td><img src=".png" alt="JavaScript" width="240" height="180" /></td>
-  <td><img src="images/git.png" alt="Git" width="240" height="180" /></td>
+  <td><img src=".png" alt="HTML" width="240" height="240" /></td>
+  <td><img src="images/azure.png" alt="Azure" width="240" height="240" /></td>
+  <td><img src=".png" alt="JavaScript" width="240" height="240" /></td>
+  <td><img src="images/git.png" alt="Git" width="240" height="240" /></td>
  </tr>
  <tr>
-  <td><img src=".png" alt="Bicep" width="240" height="180" /></td>
-  <td><img src="images/ansible.png" alt="Ansible" width="240" height="180" /></td>
-  <td><img src="images/terraform.png" alt="TerraForm" width="240" height="180" /></td>
-  <td><img src=".png" alt="SQL" width="240" height="180" /></td>
-  <td><img src=".png" alt="SSRS" width="240" height="180" /></td>
+  <td><img src=".png" alt="Bicep" width="240" height="240" /></td>
+  <td><img src="images/ansible.png" alt="Ansible" width="240" height="240" /></td>
+  <td><img src="images/terraform.png" alt="TerraForm" width="240" height="240" /></td>
+  <td><img src=".png" alt="SQL" width="240" height="240" /></td>
+  <td><img src=".png" alt="SSRS" width="240" height="240" /></td>
  </tr>
  <tr>
-  <td><img src=".png" alt="Python" width="240" height="180" /></td>
-  <td><img src=".png" alt="Epicor" width="240" height="180" /></td>
-  <td><img src=".png" alt="ERP" width="240" height="180" /></td>
-  <td><img src=".png" alt="Visual Studio" width="240" height="180" /></td>
-  <td><img src=".png" alt="VS Code" width="240" height="180" /></td>
+  <td><img src=".png" alt="Python" width="240" height="240" /></td>
+  <td><img src=".png" alt="Epicor" width="240" height="240" /></td>
+  <td><img src=".png" alt="ERP" width="240" height="240" /></td>
+  <td><img src="images/visualstudio.png" alt="Visual Studio" width="240" height="240" /></td>
+  <td><img src="images/vscode.png" alt="VS Code" width="240" height="240" /></td>
  </tr>
  <tr>
-  <td><img src=".png" alt="XML" width="240" height="180" /></td>
-  <td><img src=".png" alt=".NET Core" width="240" height="180" /></td>
-  <td><img src="images/powershell.png" alt="PowerShell" width="240" height="180" /></td>
-  <td><img src=".png" alt="Linux" width="240" height="180" /></td>
-  <td><img src=".png" alt="REST" width="240" height="180" /></td>
+  <td><img src="images/bash.png" alt="Bash" width="240" height="240" /></td>
+  <td><img src="images/dotnet.png" alt=".NET Core" width="240" height="240" /></td>
+  <td><img src="images/powershell.png" alt="PowerShell" width="240" height="240" /></td>
+  <td><img src=".png" alt="Linux" width="240" height="240" /></td>
+  <td><img src=".png" alt="REST" width="240" height="240" /></td>
  </tr>
 </table>
 
