@@ -1,7 +1,7 @@
 # Aamer Abu Arja
 
 ## About Me
-I am an ERP Technical Consultant with a passion for .NET, The Web, Computers, and Solution Architecture.
+I am a Technical Team Lead, ERP & Cloud Enthusiast and a man with a passion for Computers, The Web and  Solution Architecture.
 
 ## Skills and Interests
 <!--
