@@ -3,10 +3,11 @@
 ## About Me
 I am a Technical Team Lead, ERP & Cloud Enthusiast and a man with a passion for Computers, The Web and  Solution Architecture.
 
+<!--
 ## Skills and Interests
 <table>
  <tr>
-  <td><img src="images/c-sharp.png" alt="C#" width="240" height="180" /></td>
+  <td><img src="images/c-sharp.png" alt="C#" width="240" height="240" /></td>
   <td><img src=".png" alt="HTML" width="240" height="180" /></td>
   <td><img src=".png" alt="Azure" width="240" height="180" /></td>
   <td><img src=".png" alt="JavaScript" width="240" height="180" /></td>
@@ -34,6 +35,7 @@ I am a Technical Team Lead, ERP & Cloud Enthusiast and a man with a passion for 
   <td><img src=".png" alt="REST" width="240" height="180" /></td>
  </tr>
 </table>
+-->
 
 <!--
 ## Experience
